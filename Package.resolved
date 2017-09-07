@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ReactiveSwift",
+        "repositoryURL": "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "b9d5b350a446b85704396ce332a1f9e4960cfc6b",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "ReactiveTask",
+        "repositoryURL": "git@github.com:Carthage/ReactiveTask.git",
+        "state": {
+          "branch": null,
+          "revision": "c4ac2a770d9991157561084ec7b9a4fe40fed87a",
+          "version": "0.13.0"
+        }
+      },
+      {
+        "package": "Result",
+        "repositoryURL": "https://github.com/antitypical/Result.git",
+        "state": {
+          "branch": null,
+          "revision": "c8446185238659a2b27c0261f64ff1254291d07d",
+          "version": "3.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
